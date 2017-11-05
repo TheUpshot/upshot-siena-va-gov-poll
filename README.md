@@ -15,7 +15,7 @@ Self-reported education was weighted to match estimates for the educational comp
 
 The voter-file based targets were estimated with a model of turnout in the 2013 gubernatorial election, based on vote history, age and date of registration, and applied to active registered voters on the L2 file in Virginia. 
 
-The standard deviation of the weights was .35. The maximum weight was 2.33 and the minimum weight was .3658; 95 percent of weights were between .45 and 1.84. 
+The standard deviation of the weights was .35. The maximum weight was 2.33 and the minimum weight was .37; 95 percent of weights were between .45 and 1.84. 
 
 The probability that a respondent would turn out was based on a combination of poll responses and a modeled turnout score. The modeled turnout score represented 60 percent of the estimated turnout probability; the self-reported likely voter score represented 40 percent. 
 
